@@ -10,5 +10,11 @@ const LISTA_ESTUDIANTES = [
         sede: 'Medellín',
         github: 'sebasgp',
         page: './pages/sebasgp.html'
+    },
+    {
+        nombre: 'DANIEL ESTEBAN BURBANO ARGOTY',
+        sede: 'Medellín',
+        github: 'burbano444',
+        page: './pages/burbano444.html'
     }
 ];
